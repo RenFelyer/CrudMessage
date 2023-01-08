@@ -1,0 +1,7 @@
+
+.board {
+	@apply flex flex-col gap-2;
+	@apply w-full sm:w-[640px];
+	@apply m-auto max-h-full;
+	@apply overflow-x-hidden overflow-y-scroll;
+}
